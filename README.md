@@ -7,7 +7,7 @@
 <p align="center">
   <strong>vi·ve·re</strong> <code>/ˈwiː.we.re/</code> — <em>(Latin) To live, to be alive.</em>
 </p>
-
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%E2%9C%94-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Database-Hive-F43F5E?style=for-the-badge" alt="Hive" />
